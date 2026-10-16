@@ -66,69 +66,69 @@ The table below catalogs leading commercial platforms, sorted in descending orde
 
 ## 🔓 Open-Source Test Automation Frameworks & Tools
 
-Below are the top active open-source repositories powering modern test infrastructure, sorted in descending order by **GitHub Star Count**. Every badge links directly to the stargazers page of the repository.
+Below are the top active open-source repositories powering modern test infrastructure, sorted in descending order by **GitHub Stars_Count**. Every badge links directly to the stargazers page of the repository.
 
-1. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+1. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    **The modern standard for web browser automation.** Developed by Microsoft, Playwright delivers reliable cross-browser execution (Chromium, Firefox, WebKit) with built-in auto-waiting, network mocking, and the **Trace Viewer** for deep post-mortem failure analysis. Multi-language support across TypeScript/JavaScript, Python, C#, and Java.
    
-2. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+2. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
    **High-level Chrome DevTools protocol driver.** Maintained by the Google Chrome team, Puppeteer offers idiomatic Node.js control over headless Chrome and Chromium. Widely leveraged for single-page application rendering, automated PDF/screenshot generation, and granular performance diagnostics.
 
-3. **[Cypress](https://github.com/cypress-io/cypress)** [![GitHub stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)  
+3. **[Cypress](https://github.com/cypress-io/cypress)** [![GitHub_Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)  
    **Fast, developer-centric end-to-end testing.** Executes directly inside the browser's execution loop alongside application code, delivering instantaneous feedback, time-travel debugging, automatic waiting, and zero driver configuration for modern frontend frameworks (React, Vue, Angular).
 
-4. **[Selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
+4. **[Selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub_Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
    **The foundational W3C standard for browser automation.** The pioneer of browser testing with unmatched language diversity (Java, Python, C#, Ruby, JavaScript). Backed by an extensive worldwide ecosystem and Selenium Grid for distributed test clustering across heterogeneous server fleets.
 
-5. **[k6](https://github.com/grafana/k6)** [![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
+5. **[k6](https://github.com/grafana/k6)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
    **Developer-friendly, high-performance load & stress testing.** Built in Go with modern ES6 JavaScript test scripting, k6 is engineered to catch performance regressions early in CI/CD pipelines with minimal system resource consumption.
 
-6. **[Locust](https://github.com/locustio/locust)** [![GitHub stars](https://img.shields.io/github/stars/locustio/locust?style=social&color=white)](https://github.com/locustio/locust/stargazers)  
+6. **[Locust](https://github.com/locustio/locust)** [![GitHub_Stars](https://img.shields.io/github/stars/locustio/locust?style=social&color=white)](https://github.com/locustio/locust/stargazers)  
    **Scalable user load testing in standard Python.** Define user behavior scenarios purely in Python code without awkward XML or bulky UIs. Capable of simulating millions of concurrent users distributed across networked worker machines.
 
-7. **[Appium](https://github.com/appium/appium)** [![GitHub stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)  
+7. **[Appium](https://github.com/appium/appium)** [![GitHub_Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)  
    **Cross-platform mobile test automation standard.** Extends the W3C WebDriver protocol to iOS (XCUITest), Android (UiAutomator2/Espresso), and Windows desktop. Write tests for native, hybrid, and mobile web applications using identical APIs.
 
-8. **[Nightwatch.js](https://github.com/nightwatchjs/nightwatch)** [![GitHub stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=social&color=white)](https://github.com/nightwatchjs/nightwatch/stargazers)  
+8. **[Nightwatch.js](https://github.com/nightwatchjs/nightwatch)** [![GitHub_Stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=social&color=white)](https://github.com/nightwatchjs/nightwatch/stargazers)  
    **End-to-end testing framework for web applications.** Written in Node.js and utilizing the W3C WebDriver API, Nightwatch provides an integrated test runner, built-in assertion library, and simple syntax for desktop and mobile browser automation.
 
-9. **[Robot Framework](https://github.com/robotframework/robotframework)** [![GitHub stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers)  
+9. **[Robot Framework](https://github.com/robotframework/robotframework)** [![GitHub_Stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers)  
    **Generic keyword-driven test automation and RPA framework.** Open and extensible syntax enables cross-functional teams to automate acceptance tests and business processes with rich ecosystem libraries like SeleniumLibrary, Browser (Playwright-based), and RESTinstance.
 
-10. **[WebdriverIO](https://github.com/webdriverio/webdriverio)** [![GitHub stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers)  
+10. **[WebdriverIO](https://github.com/webdriverio/webdriverio)** [![GitHub_Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers)  
     **Next-gen browser and mobile automation test runner for Node.js.** Supports both the official WebDriver standard and Chrome DevTools protocols. Offers modular plugins for Mocha, Jasmine, Cucumber, and seamless integrations with Sauce Labs, BrowserStack, and LambdaTest.
 
-11. **[Karate](https://github.com/karatelabs/karate)** [![GitHub stars](https://img.shields.io/github/stars/karatelabs/karate?style=social&color=white)](https://github.com/karatelabs/karate/stargazers)  
+11. **[Karate](https://github.com/karatelabs/karate)** [![GitHub_Stars](https://img.shields.io/github/stars/karatelabs/karate?style=social&color=white)](https://github.com/karatelabs/karate/stargazers)  
     **All-in-one test automation framework.** Unifies API testing, API performance testing, API mocking, and browser UI automation in a clean DSL without requiring extensive boilerplate code.
 
-12. **[Allure 2](https://github.com/allure-framework/allure2)** [![GitHub stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)  
+12. **[Allure 2](https://github.com/allure-framework/allure2)** [![GitHub_Stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)  
     **Multi-language test reporting framework.** Generates clear, interactive HTML reports with execution timelines, categorized failures, environment data, and historical trends for JUnit, TestNG, Pytest, Playwright, and Cypress.
 
-13. **[QA Wolf](https://github.com/qawolf/qawolf)** [![GitHub stars](https://img.shields.io/github/stars/qawolf/qawolf?style=social&color=white)](https://github.com/qawolf/qawolf/stargazers)  
+13. **[QA Wolf](https://github.com/qawolf/qawolf)** [![GitHub_Stars](https://img.shields.io/github/stars/qawolf/qawolf?style=social&color=white)](https://github.com/qawolf/qawolf/stargazers)  
     **Playwright-backed test creation and parallel runner.** Converts user interactions into clean, maintainable Playwright TypeScript scripts that can be versioned in Git and executed in parallel across cloud workers.
 
-14. **[Taurus (bzt)](https://github.com/Blazemeter/taurus)** [![GitHub stars](https://img.shields.io/github/stars/Blazemeter/taurus?style=social&color=white)](https://github.com/Blazemeter/taurus/stargazers)  
+14. **[Taurus (bzt)](https://github.com/Blazemeter/taurus)** [![GitHub_Stars](https://img.shields.io/github/stars/Blazemeter/taurus?style=social&color=white)](https://github.com/Blazemeter/taurus/stargazers)  
     **Continuous testing orchestration wrapper.** Abstracts complex configurations for JMeter, Gatling, Locust, and Selenium into declarative, version-controlled YAML configuration files.
 
-15. **[TestNG](https://github.com/testng-team/testng)** [![GitHub stars](https://img.shields.io/github/stars/testng-team/testng?style=social&color=white)](https://github.com/testng-team/testng/stargazers)  
+15. **[TestNG](https://github.com/testng-team/testng)** [![GitHub_Stars](https://img.shields.io/github/stars/testng-team/testng?style=social&color=white)](https://github.com/testng-team/testng/stargazers)  
     **Enterprise testing framework inspired by JUnit and NUnit.** Features parameterization, group dependencies, flexible execution suites via XML, and multi-threaded parallel test execution tailored for Java test suites.
 
-16. **[Testsigma Community](https://github.com/testsigmahq/testsigma)** [![GitHub stars](https://img.shields.io/github/stars/testsigmahq/testsigma?style=social&color=white)](https://github.com/testsigmahq/testsigma/stargazers)  
+16. **[Testsigma Community](https://github.com/testsigmahq/testsigma)** [![GitHub_Stars](https://img.shields.io/github/stars/testsigmahq/testsigma?style=social&color=white)](https://github.com/testsigmahq/testsigma/stargazers)  
     **Open-source low-code test automation platform.** Create automated tests for web, mobile apps, and APIs using natural language statements with built-in test management and local device execution.
 
-17. **[playwright-automation-framework](https://github.com/yousufwaqar/playwright-automation-framework)** [![GitHub stars](https://img.shields.io/github/stars/yousufwaqar/playwright-automation-framework?style=social&color=white)](https://github.com/yousufwaqar/playwright-automation-framework/stargazers)  
+17. **[playwright-automation-framework](https://github.com/yousufwaqar/playwright-automation-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/yousufwaqar/playwright-automation-framework?style=social&color=white)](https://github.com/yousufwaqar/playwright-automation-framework/stargazers)  
     **Enterprise-grade Playwright + TypeScript framework.** Features Page Object Model architecture, axe-core WCAG 2.1 accessibility auditing, performance timing budgets, and Dockerized test execution.
 
-18. **[pixelguard](https://github.com/emiliodominguez/pixelguard)** [![GitHub stars](https://img.shields.io/github/stars/emiliodominguez/pixelguard?style=social&color=white)](https://github.com/emiliodominguez/pixelguard/stargazers)  
+18. **[pixelguard](https://github.com/emiliodominguez/pixelguard)** [![GitHub_Stars](https://img.shields.io/github/stars/emiliodominguez/pixelguard?style=social&color=white)](https://github.com/emiliodominguez/pixelguard/stargazers)  
     **Git-friendly visual regression testing.** Auto-detects Storybook component trees, captures baseline screenshots, and enables interactive CLI review for component design systems.
 
-19. **[django-vrt](https://github.com/William-Blackie/django-vrt)** [![GitHub stars](https://img.shields.io/github/stars/William-Blackie/django-vrt?style=social&color=white)](https://github.com/William-Blackie/django-vrt/stargazers)  
+19. **[django-vrt](https://github.com/William-Blackie/django-vrt)** [![GitHub_Stars](https://img.shields.io/github/stars/William-Blackie/django-vrt?style=social&color=white)](https://github.com/William-Blackie/django-vrt/stargazers)  
     **Python visual regression testing package for Django applications.** Employs a deterministic lockfile matrix (`djvrt.lock.json`), route discovery from URLConf, and interactive HTML visual diff reports.
 
-20. **[playwright-go-framework](https://github.com/qambar/playwright-go-framework)** [![GitHub stars](https://img.shields.io/github/stars/qambar/playwright-go-framework?style=social&color=white)](https://github.com/qambar/playwright-go-framework/stargazers)  
+20. **[playwright-go-framework](https://github.com/qambar/playwright-go-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/qambar/playwright-go-framework?style=social&color=white)](https://github.com/qambar/playwright-go-framework/stargazers)  
     **Structured Playwright testing framework written in Go.** Implements Page Object Model patterns, multi-browser GitHub Actions CI matrix builds, Docker execution, and HTML reporting for Go engineering teams.
 
-21. **[mendwright](https://github.com/renaldstrakims/mendwright)** [![GitHub stars](https://img.shields.io/github/stars/renaldstrakims/mendwright?style=social&color=white)](https://github.com/renaldstrakims/mendwright/stargazers)  
+21. **[mendwright](https://github.com/renaldstrakims/mendwright)** [![GitHub_Stars](https://img.shields.io/github/stars/renaldstrakims/mendwright?style=social&color=white)](https://github.com/renaldstrakims/mendwright/stargazers)  
     **Local self-healing selector library.** Uses an offline local small language model (~1GB, Qwen2.5 fine-tuned) to repair broken CSS/XPath selectors in ~0.25 seconds without streaming page contents off-machine.
 
 ---
