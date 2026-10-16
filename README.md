@@ -66,7 +66,7 @@ The table below catalogs leading commercial platforms, sorted in descending orde
 
 ## 🔓 Open-Source Test Automation Frameworks & Tools
 
-Below are the top active open-source repositories powering modern test infrastructure, sorted in descending order by **GitHub Stars_Count**. Every badge links directly to the stargazers page of the repository.
+Below are the top active open-source repositories powering modern test infrastructure, sorted in descending order by **GitHub_Stars_Count**. Every badge links directly to the stargazers page of the repository.
 
 1. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    **The modern standard for web browser automation.** Developed by Microsoft, Playwright delivers reliable cross-browser execution (Chromium, Firefox, WebKit) with built-in auto-waiting, network mocking, and the **Trace Viewer** for deep post-mortem failure analysis. Multi-language support across TypeScript/JavaScript, Python, C#, and Java.
