@@ -1,6 +1,6 @@
 # Awesome-Test-Automation-Platforms
 
-# Top Test Automation Platforms Ecosystem
+## Top Test Automation Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Low-Code Automation, Cross-Browser Testing & Self-Healing Locators*  
